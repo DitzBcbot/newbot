@@ -1,6 +1,6 @@
 import { tebakgambar } from '@bochilteam/scraper'
 
-let timeout = 120000
+let timeout = 60000
 let poin = 4999
 let handler = async (m, { conn, usedPrefix }) => {
     conn.tebakgambar = conn.tebakgambar ? conn.tebakgambar : {}
@@ -15,6 +15,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 Timeout *${(timeout / 1000).toFixed(2)} detik*
 Ketik ${usedPrefix}hint untuk hint
 Bonus: ${poin} XP
+
+‼️ *REPLY SOAL UTK MENJAWAB* ‼️
     `.trim()
     conn.tebakgambar[id] = [
         await conn.sendButton(m.chat, caption, author, json.img, buttons, m),
