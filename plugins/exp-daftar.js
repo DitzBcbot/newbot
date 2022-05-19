@@ -47,7 +47,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ]
 
 const listMessage = {
-  text: `tolong pilih umur kamu pada tombo dibawah...\n*Nama Kamu:* ${conn.getName(m.sender)}\nMau nama kustom? ketik *${usedPrefix + command} namakamu.umur*`,
+  text: `tolong pilih umur kamu pada tombol dibawah...\n*Nama Kamu:* ${conn.getName(m.sender)}\nMau nama kustom? ketik *${usedPrefix + command} namakamu.umur*`,
   footer: global.wm,
   title: "━━━━「 Registrasi 」━━━━",
   buttonText: "Klik Disini !",
