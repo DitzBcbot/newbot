@@ -14,6 +14,8 @@ Terdapat *${json.jawaban.length}* jawaban${json.jawaban.find(v => v.includes(' '
 (beberapa jawaban terdapat spasi)
 `: ''}
 +${winScore} XP tiap jawaban benar
+
+‼️ *REPLY SOAL UTK MENJAWAB* ‼️
     `.trim()
     this.game[id] = {
         id,
