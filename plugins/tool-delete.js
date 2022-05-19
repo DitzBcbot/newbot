@@ -10,4 +10,6 @@ handler.tags = ['tools']
 
 handler.command = /^del(ete)?$/i
 
+handler.premium = true
+
 export default handler
