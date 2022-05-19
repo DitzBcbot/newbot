@@ -41,4 +41,6 @@ handler.help = ['sc']
 handler.tags = ['info']
 handler.command = /^(s(ourcode|c))$/i
 
+handler.premium = true
+
 export default handler
