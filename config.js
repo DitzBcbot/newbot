@@ -44,9 +44,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/gdausnkntd'
-global.sgh = '-'
+global.sgh = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
 global.sgc = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
-global.sdc = '-'
+global.sdc = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
 global.snh = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
 
 /*============== PAYMENT ==============*/
