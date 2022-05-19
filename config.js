@@ -47,7 +47,7 @@ global.sig = 'https://instagram.com/gdausnkntd'
 global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
 global.sdc = '-'
-global.snh = '-'
+global.snh = 'https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY'
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
